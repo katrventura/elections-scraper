@@ -1,4 +1,4 @@
-### 2024 Elections Scraper
+# 2024 Elections Scraper
 
 ## Short Description:
 
