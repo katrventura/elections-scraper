@@ -7,15 +7,32 @@
     <title>2024 Elections</title>
 
     <meta property="og:title" content="Which Way Will the World Vote?">
-    <meta property="og:description" content="A visualization following the results of elections happening all over the world in 2024.">
+    <meta property="og:description"
+        content="A visualization following the results of elections happening all over the world in 2024.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://raw.githubusercontent.com/katrventura/elections-scraper/main/cover.jpeg">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@katrventura">
-    
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Yeseva+One&display=swap"
+        rel="stylesheet">
 
     <style>
-       
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
         .content {
             max-width: 720px;
             margin: auto;
@@ -26,21 +43,23 @@
         }
 
         h1 {
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Yeseva One', Arial, Helvetica, sans-serif;
             font-weight: bold;
-            font-size: 3em;
+            font-size: 3.5em;
             line-height: 1.1;
         }
 
+
+
         p {
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
             line-height: 1.6;
             margin: 0;
             padding-bottom: 1.2em;
         }
 
         a {
-            color:#2271d2;
+            color: #2271d2;
         }
 
         .footer {
@@ -62,9 +81,18 @@
 
         <div class="header">
             <h1>Which Way Will the World Vote? </h1>
-            <p class="subhead"> Around 64 countries are holding their elections in 2024, among them Indonesia, India, European Union, and the United States. Using data from the <a href="https://www.electionguide.org">International Foundation for Electoral Systems</a>, I analyzed the political affiliations of winning candidates and the average voter turnout percentage and plotted it in a diverging bar chart where the left side represents progressive/democratic and the right side represents conservative/republican. Where in the x-axis shows average voter turnout percentage, while the y-axis is a calendar that shows when the elections will take place.</p>
-            
-            <p class="subhead">This project comes with an auto-scraper that will regularly churn out an updated data.csv file to show the most recent elections that were held. The auto-scraper uses Python, Playwright, and BeautifulSoup. It runs on GitHub. If you're interested to see it, you can find the code on my <a href="https://github.com/katrventura/elections-scraper" target="New">GitHub page</a>. </p>
+            <p class="subhead"> Around 64 countries are holding their elections in 2024, among them Indonesia, India,
+                European Union, and the United States. Using data from the <a
+                    href="https://www.electionguide.org">International Foundation for Electoral Systems</a>, I analyzed
+                the political affiliations of winning candidates and the average voter turnout percentage and plotted it
+                in a diverging bar chart where the left side represents progressive/democratic and the right side
+                represents conservative/republican. Where in the x-axis shows average voter turnout percentage, while
+                the y-axis is a calendar that shows when the elections will take place.</p>
+
+            <p class="subhead">This project comes with an auto-scraper that will regularly churn out an updated data.csv
+                file to show the most recent elections that were held. The auto-scraper uses Python, Playwright, and
+                BeautifulSoup. It runs on GitHub. If you're interested to see it, you can find the code on my <a
+                    href="https://github.com/katrventura/elections-scraper" target="New">GitHub page</a>. </p>
             <div class="byline">
                 <p>By <a href="https://katrventura.github.io/portfolio-website/">Katrina Ventura</a></p>
             </div>
