@@ -4,9 +4,9 @@ Bhutan,Bhutanese National Assembly,2024-01-09 (d),Held,"498,135","326,775 (c)","
                                         %"
 Sint Maarten,Sint Maarten Parliament,2024-01-11 (d),Held,"22,553","14,443  (v)","65.5
                                         %"
-Taiwan,Taiwanese Legislative Yuan,2024-01-13 (d),Held,"19,566,007","13,776,736  (v)","71.8
-                                        %"
 Taiwan,Taiwanese Presidency,2024-01-13 (d),Held,"19,548,531","13,947,506  (v)","71.9
+                                        %"
+Taiwan,Taiwanese Legislative Yuan,2024-01-13 (d),Held,"19,566,007","13,776,736  (v)","71.8
                                         %"
 Comoros,Comoran Presidency,2024-01-14 (d),Held,"338,940",n/a,
 Liechtenstein,Referendum,2024-01-21 (d),Held,"20,950","14,221 (c)","67.9
@@ -14,20 +14,20 @@ Liechtenstein,Referendum,2024-01-21 (d),Held,"20,950","14,221 (c)","67.9
 Tuvalu,Tuvaluan House of Assembly,2024-01-26 (d),Held,None,n/a,
 Finland,Finnish Presidency,2024-01-28 (d),Held,"4,546,041","3,243,451  (v)","71.6
                                         %"
-El Salvador,Salvadoran Legislative Assembly,2024-02-04 (d),Held,"6,214,399",n/a,
 El Salvador,Salvadoran Presidency,2024-02-04 (d),Held,"6,214,399","3,191,615  (v)","52.6
                                         %"
+El Salvador,Salvadoran Legislative Assembly,2024-02-04 (d),Held,"6,214,399",n/a,
 Azerbaijan,Azerbaijani Presidency,2024-02-07 (d),Held,"6,514,222","4,957,967  (v)","76.3
                                         %"
 Pakistan,Pakistani National Assembly,2024-02-08 (d),Confirmed,"128,585,760",n/a,
 Finland,Finnish Presidency,2024-02-11 (d),Held,"4,546,041","2,051,759  (v)","67.6
                                         %"
-Indonesia,Indonesian Regional Representative Council,2024-02-14 (d),Held,"204,807,222",n/a,
 Indonesia,Indonesian Presidency,2024-02-14 (d),Held,"204,807,222",n/a,
+Indonesia,Indonesian Regional Representative Council,2024-02-14 (d),Held,"204,807,222",n/a,
 Indonesia,Indonesian House of Representatives,2024-02-14 (d),Held,"204,807,222",n/a,
+Belarus,Belarusian Chamber of Representatives,2024-02-25 (d),Held,None,n/a,
 Liechtenstein,Referendum,2024-02-25 (d),Held,"20,964","13,689  (v)","66.5
                                         %"
-Belarus,Belarusian Chamber of Representatives,2024-02-25 (d),Held,None,n/a,
 "Iran, Islamic Republic of",Iranian Islamic Consultative Assembly,2024-03-01 (d),Held,None,n/a,
 Ireland,Referendum,2024-03-08 (d),Held,"3,438,566","1,507,673  (v)","44.4
                                         %"
@@ -38,28 +38,28 @@ Senegal,Senegalese Presidency,2024-03-24 (d),Confirmed,None,n/a,
 Kuwait,Kuwaiti National Assembly,2024-04-04 (d),Confirmed,"793,646",n/a,
 Slovakia,Slovakian Presidency,2024-04-06 (d),Confirmed,None,n/a,
 South Korea,South Korean National Assembly,2024-04-10 (d),Confirmed,None,n/a,
-Solomon Islands,Solomon Islander National Parliament,2024-04-17 (d),Confirmed,None,n/a,
 Croatia,Croatian Assembly,2024-04-17 (d),Confirmed,None,n/a,
+Solomon Islands,Solomon Islander National Parliament,2024-04-17 (d),Confirmed,None,n/a,
 India,Indian People's Assembly,2024-04-19 (d),Confirmed,"969,700,000",n/a,
-Togo,Togolese National Assembly,2024-04-20 (d),Confirmed,"4,203,711",n/a,
-Maldives,Maldivian People's Council,2024-04-21 (d),Confirmed,"284,887",n/a,
+Togo,Togolese National Assembly,2024-04-20 (d),Postponed,"4,203,711",n/a,
 Ecuador,Referendum,2024-04-21 (d),Confirmed,None,n/a,
+Maldives,Maldivian People's Council,2024-04-21 (d),Confirmed,"284,887",n/a,
 North Macedonia,North Macedonian Presidency,2024-04-24 (d),Confirmed,None,n/a,
+Panama,Panamanian National Assembly,2024-05-05 (d),Confirmed,"3,004,083",n/a,
 Panama,Panamanian Presidency,2024-05-05 (d),Confirmed,"3,004,083",n/a,
-Panama,Panamanian National Assembly,2024-05-05 (t),Confirmed,None,n/a,
 Chad,Chadian Presidency,2024-05-06 (d),Confirmed,None,n/a,
 North Macedonia,North Macedonian Assembly,2024-05-08 (d),Confirmed,None,n/a,
 Lithuania,Lithuanian Presidency,2024-05-12 (d),Confirmed,None,n/a,
 Lithuania,Referendum,2024-05-12 (d),Confirmed,None,n/a,
-Dominican Republic,Dominican Chamber of Deputies,2024-05-19 (d),Confirmed,None,n/a,
 Dominican Republic,Dominican Senate,2024-05-19 (d),Confirmed,None,n/a,
+Dominican Republic,Dominican Chamber of Deputies,2024-05-19 (d),Confirmed,None,n/a,
 Dominican Republic,Dominican Presidency,2024-05-19 (d),Confirmed,None,n/a,
 Vanuatu,Referendum,2024-05-29 (d),Confirmed,None,n/a,
 Madagascar,Malagasy National Assembly,2024-05-29 (d),Confirmed,None,n/a,
 South Africa,South African National Assembly,2024-05-29 (d),Confirmed,None,n/a,
 Iceland,Icelandic Presidency,2024-06-01 (d),Confirmed,None,n/a,
-Mexico,Mexican Chamber of Deputies,2024-06-02 (t),Confirmed,None,n/a,
 Mexico,Mexican Presidency,2024-06-02 (t),Confirmed,None,n/a,
+Mexico,Mexican Chamber of Deputies,2024-06-02 (t),Confirmed,None,n/a,
 Mexico,Mexican Senate,2024-06-02 (t),Confirmed,None,n/a,
 European Union,European Parliament,2024-06-06 (d),Confirmed,None,n/a,
 Ireland,Referendum,2024-06-07 (t),Tentative,None,n/a,
@@ -68,8 +68,8 @@ Mauritania,Mauritanian Presidency,2024-06-22 (d),Confirmed,None,n/a,
 Mongolia,Mongolian State Great Hural,2024-06-28 (d),Confirmed,None,n/a,
 Kiribati,Kiribati Presidency,2024-06-30 (t),Date not confirmed,None,n/a,
 Kiribati,Kiribati House of Assembly,2024-06-30 (t),Date not confirmed,None,n/a,
-Rwanda,Rwandan Chamber of Deputies,2024-07-15 (d),Confirmed,None,n/a,
 Rwanda,Rwandan Presidency,2024-07-15 (d),Confirmed,None,n/a,
+Rwanda,Rwandan Chamber of Deputies,2024-07-15 (d),Confirmed,None,n/a,
 Venezuela,Venezuela Presidency,2024-07-28 (d),Confirmed,None,n/a,
 Syrian Arab Republic,Syrian People's Council,2024-07-31 (t),Date not confirmed,None,n/a,
 Czech Republic,Czech Senate,2024-09-30 (t),Date not confirmed,None,n/a,
