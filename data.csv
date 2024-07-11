@@ -70,16 +70,16 @@ Lithuania,Referendum,2024-05-12 (d),Held,"2,401,807","1,400,539  (v)","59.5
                                         %"
 Lithuania,Lithuanian Presidency,2024-05-12 (d),Held,"2,401,807","1,428,390  (v)","60.0
                                         %"
+Dominican Republic,Dominican Chamber of Deputies,2024-05-19 (d),Held,None,n/a,
+Dominican Republic,Dominican Senate,2024-05-19 (d),Held,None,n/a,
 Dominican Republic,Dominican Presidency,2024-05-19 (d),Held,"8,145,548","4,365,147  (v)","54.4
                                         %"
-Dominican Republic,Dominican Senate,2024-05-19 (d),Held,None,n/a,
-Dominican Republic,Dominican Chamber of Deputies,2024-05-19 (d),Held,None,n/a,
 Lithuania,Lithuanian Presidency,2024-05-26 (d),Confirmed,"2,404,421","1,177,928  (v)","49.7
                                         %"
+Vanuatu,Referendum,2024-05-29 (d),Held,None,n/a,
 South Africa,South African National Assembly,2024-05-29 (d),Held,"27,782,081","16,076,719  (v)","58.6
                                         %"
 Madagascar,Malagasy National Assembly,2024-05-29 (d),Held,"11,631,156",n/a,
-Vanuatu,Referendum,2024-05-29 (d),Held,None,n/a,
 Iceland,Icelandic Presidency,2024-06-01 (d),Held,"266,935","214,318  (v)","80.8
                                         %"
 Mexico,Mexican Senate,2024-06-02 (d),Held,"99,084,188",n/a,
@@ -87,11 +87,11 @@ Mexico,Mexican Presidency,2024-06-02 (d),Held,"99,084,188",n/a,
 Mexico,Mexican Chamber of Deputies,2024-06-02 (d),Held,"99,084,188",n/a,
 European Union,European Parliament,2024-06-06 (d),Held,None,n/a,
 Slovenia,Referendum,2024-06-09 (d),Held,None,n/a,
+Bulgaria,Bulgarian National Assembly,2024-06-09 (d),Held,"6,639,449",n/a,
 Belgium,Belgian Chamber of Representatives,2024-06-09 (d),Held,"8,368,029","6,898,873  (v)","87.4
                                         %"
 San Marino,Sammarinese Grand and General Council,2024-06-09 (d),Held,"38,338","18,180  (v)","50.7
                                         %"
-Bulgaria,Bulgarian National Assembly,2024-06-09 (d),Held,"6,639,449",n/a,
 Liechtenstein,Referendum,2024-06-16 (d),Held,"21,018","13,820  (v)","67.0
                                         %"
 "Iran, Islamic Republic of",Iranian President,2024-06-28 (d),Confirmed,None,"24,535,185 (c)",
@@ -103,36 +103,36 @@ United Kingdom of Great Britain and Northern Ireland,British House of Commons,20
 "Iran, Islamic Republic of",Iranian President,2024-07-05 (d),Confirmed,None,n/a,
 France,French National Assembly,2024-07-07 (d),Confirmed,"43,328,507","27,279,713  (v)","66.6
                                         %"
+Syrian Arab Republic,Syrian People's Council,2024-07-15 (d),Confirmed,"18,107,109",n/a,
 Rwanda,Rwandan Chamber of Deputies,2024-07-15 (d),Confirmed,"6,897,076",n/a,
 Rwanda,Rwandan Presidency,2024-07-15 (d),Confirmed,"6,897,076",n/a,
-Syrian Arab Republic,Syrian People's Council,2024-07-15 (d),Confirmed,"18,107,109",n/a,
 Venezuela,Venezuela Presidency,2024-07-28 (d),Confirmed,None,n/a,
 Sint Maarten,Sint Maarten Parliament,2024-08-19 (d),Confirmed,"22,553",n/a,
-Kiribati,Kiribati House of Assembly,2024-08-31 (t),Date not confirmed,None,n/a,
 Kiribati,Kiribati Presidency,2024-08-31 (t),Date not confirmed,None,n/a,
-Azerbaijan,Azerbaijani National Assembly,2024-09-01 (t),Confirmed,None,n/a,
+Kiribati,Kiribati House of Assembly,2024-08-31 (t),Date not confirmed,None,n/a,
+Azerbaijan,Azerbaijani National Assembly,2024-09-01 (d),Confirmed,"6,514,222",n/a,
 Algeria,Algerian Presidency,2024-09-07 (d),Confirmed,"24,453,992",n/a,
 Jordan,Jordanian House of Deputies,2024-09-10 (d),Confirmed,None,n/a,
 Czech Republic,Czech Senate,2024-09-20 (d),Confirmed,None,n/a,
 Austria,Austrian National Council,2024-09-29 (d),Confirmed,"6,416,177",n/a,
 Sri Lanka,Sri Lankan Presidency,2024-09-30 (t),Date not confirmed,"16,263,885",n/a,
-Tunisia,Tunisian Presidency,2024-10-06 (d),Confirmed,None,n/a,
+Tunisia,Tunisian Presidency,2024-10-06 (d),Confirmed,"9,065,758",n/a,
 Mozambique,Mozambican Assembly,2024-10-09 (d),Confirmed,"8,254,178",n/a,
 Mozambique,Mozambican Presidency,2024-10-09 (d),Confirmed,"8,254,178",n/a,
 Lithuania,Lithuanian Parliament,2024-10-13 (t),Date not confirmed,None,n/a,
-"Moldova, Republic of",Moldovan Presidency,2024-10-20 (d),Confirmed,None,n/a,
 "Moldova, Republic of",Referendum,2024-10-20 (d),Confirmed,None,n/a,
+"Moldova, Republic of",Moldovan Presidency,2024-10-20 (d),Confirmed,None,n/a,
 Georgia,Georgian Parliament,2024-10-26 (d),Confirmed,None,n/a,
-Uruguay,Uruguayan Chamber of Representatives,2024-10-27 (t),Date not confirmed,None,n/a,
-Uruguay,Uruguayan Chamber of Senators,2024-10-27 (t),Date not confirmed,None,n/a,
 Uruguay,Uruguayan Presidency,2024-10-27 (t),Date not confirmed,None,n/a,
-Uzbekistan,Uzbekistani Legislative Chamber,2024-10-31 (t),Date not confirmed,None,n/a,
+Uruguay,Uruguayan Chamber of Senators,2024-10-27 (t),Date not confirmed,None,n/a,
+Uruguay,Uruguayan Chamber of Representatives,2024-10-27 (t),Date not confirmed,None,n/a,
 Botswana,Botswana National Assembly,2024-10-31 (t),Date not confirmed,None,n/a,
-United States of America,US Senate,2024-11-05 (d),Confirmed,None,n/a,
-American Samoa,American Samoan House of Representatives,2024-11-05 (d),Confirmed,None,n/a,
-Palau,Palauan Presidency,2024-11-05 (d),Confirmed,None,n/a,
-Palau,Palauan House of Delegates,2024-11-05 (d),Confirmed,None,n/a,
+Uzbekistan,Uzbekistani Legislative Chamber,2024-10-31 (t),Date not confirmed,None,n/a,
+Guam,Guamanian Legislature,2024-11-05 (d),Confirmed,None,n/a,
 United States of America,US House of Representatives,2024-11-05 (d),Confirmed,None,n/a,
+United States of America,US Presidency,2024-11-05 (d),Confirmed,None,n/a,
+Palau,Palauan House of Delegates,2024-11-05 (d),Confirmed,None,n/a,
+Palau,Palauan Presidency,2024-11-05 (d),Confirmed,None,n/a,
+American Samoa,American Samoan House of Representatives,2024-11-05 (d),Confirmed,None,n/a,
+United States of America,US Senate,2024-11-05 (d),Confirmed,None,n/a,
 Puerto Rico,Referendum,2024-11-05 (d),Confirmed,None,n/a,
-Puerto Rico,Puerto Rican House of Representatives,2024-11-05 (d),Confirmed,None,n/a,
-Palau,Palauan Senate,2024-11-05 (d),Confirmed,None,n/a,
