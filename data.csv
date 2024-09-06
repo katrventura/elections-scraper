@@ -23,13 +23,13 @@ Azerbaijan,Azerbaijani Presidency,2024-02-07 (d),Held,"6,514,222","4,957,967  (v
 Pakistan,Pakistani National Assembly,2024-02-08 (d),Held,"128,585,760",n/a,
 Finland,Finnish Presidency,2024-02-11 (d),Held,"4,546,041","2,051,759  (v)","67.6
                                         %"
-Indonesia,Indonesian House of Representatives,2024-02-14 (d),Held,"204,807,222",n/a,
 Indonesia,Indonesian Regional Representative Council,2024-02-14 (d),Held,"204,807,222",n/a,
 Indonesia,Indonesian Presidency,2024-02-14 (d),Held,"204,807,222","164,227,475  (v)","82.2
                                         %"
-Liechtenstein,Referendum,2024-02-25 (d),Held,"20,964","13,689  (v)","66.5
-                                        %"
+Indonesia,Indonesian House of Representatives,2024-02-14 (d),Held,"204,807,222",n/a,
 Belarus,Belarusian Chamber of Representatives,2024-02-25 (d),Held,"6,825,985","5,014,437 (c)","73.5
+                                        %"
+Liechtenstein,Referendum,2024-02-25 (d),Held,"20,964","13,689  (v)","66.5
                                         %"
 "Iran, Islamic Republic of",Iranian Islamic Consultative Assembly,2024-03-01 (d),Held,None,n/a,
 Switzerland,Referendum,2024-03-03 (d),Held,None,n/a,
@@ -87,9 +87,9 @@ Mexico,Mexican Chamber of Deputies,2024-06-02 (d),Held,"99,084,188",n/a,
 Mexico,Mexican Presidency,2024-06-02 (d),Held,"99,084,188","58,715,140  (v)","60.7
                                         %"
 Mexico,Mexican Senate,2024-06-02 (d),Held,"99,084,188",n/a,
+Switzerland,Referendum,2024-06-06 (d),Held,None,n/a,
 European Union,European Parliament,2024-06-06 (d),Held,"355,349,870","175,981,527  (v)","50.7
                                         %"
-Switzerland,Referendum,2024-06-06 (d),Held,None,n/a,
 Bulgaria,Bulgarian National Assembly,2024-06-09 (d),Held,"6,797,698","2,211,648  (v)","33.4
                                         %"
 Belgium,Belgian Chamber of Representatives,2024-06-09 (d),Held,"8,368,029","6,898,873  (v)","87.4
@@ -113,13 +113,14 @@ France,French National Assembly,2024-07-07 (d),Held,"43,328,507","27,279,713  (v
                                         %"
 Rwanda,Rwandan Chamber of Deputies,2024-07-15 (d),Held,"9,071,157","8,901,453  (v)","98.2
                                         %"
+Syrian Arab Republic,Syrian People's Council,2024-07-15 (d),Held,"18,107,109",n/a,
 Rwanda,Rwandan Presidency,2024-07-15 (d),Held,"9,071,157","8,901,453  (v)","98.2
                                         %"
-Syrian Arab Republic,Syrian People's Council,2024-07-15 (d),Held,"18,107,109",n/a,
 Venezuela,Venezuela Presidency,2024-07-28 (d),Held,None,n/a,
 Kiribati,Kiribati House of Assembly,2024-08-14 (d),Held,"52,941","44,611  (v)","84.5
                                         %"
-Sint Maarten,Sint Maarten Parliament,2024-08-19 (d),Held,None,n/a,
+Sint Maarten,Sint Maarten Parliament,2024-08-19 (d),Held,"22,750","13,696  (v)","61.0
+                                        %"
 Kiribati,Kiribati House of Assembly,2024-08-19 (d),Held,None,n/a,
 Azerbaijan,Azerbaijani National Assembly,2024-09-01 (d),Held,"6,514,222",n/a,
 Algeria,Algerian Presidency,2024-09-07 (d),Confirmed,"24,453,992",n/a,
