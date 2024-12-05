@@ -87,24 +87,24 @@ Iceland,Icelandic Presidency,2024-06-01 (d),Held,"266,935","214,318  (v)","80.8
                                         %"
 Mexico,Mexican Presidency,2024-06-02 (d),Held,"99,084,188","58,715,140  (v)","60.7
                                         %"
-Mexico,Mexican Senate,2024-06-02 (d),Held,"99,084,188",n/a,
 Mexico,Mexican Chamber of Deputies,2024-06-02 (d),Held,"99,084,188",n/a,
+Mexico,Mexican Senate,2024-06-02 (d),Held,"99,084,188",n/a,
 European Union,European Parliament,2024-06-06 (d),Held,"355,349,870","175,981,527  (v)","50.7
                                         %"
 Switzerland,Referendum,2024-06-06 (d),Held,"5,505,962","2,499,156 (c)","45.4
                                         %"
-Slovenia,Referendum,2024-06-09 (d),Held,"1,692,371","690,346  (v)","41.4
+San Marino,Sammarinese Grand and General Council,2024-06-09 (d),Held,"38,338","18,180  (v)","50.7
                                         %"
-Belgium,Belgian Chamber of Representatives,2024-06-09 (d),Held,"8,368,029","6,898,873  (v)","87.4
+Slovenia,Referendum,2024-06-09 (d),Held,"1,692,371","690,346  (v)","41.4
                                         %"
 Bulgaria,Bulgarian National Assembly,2024-06-09 (d),Held,"6,797,698","2,211,648  (v)","33.4
                                         %"
-San Marino,Sammarinese Grand and General Council,2024-06-09 (d),Held,"38,338","18,180  (v)","50.7
+Belgium,Belgian Chamber of Representatives,2024-06-09 (d),Held,"8,368,029","6,898,873  (v)","87.4
                                         %"
 Liechtenstein,Referendum,2024-06-16 (d),Held,"21,018","13,820  (v)","67.0
                                         %"
-Mongolia,Mongolian State Great Hural,2024-06-28 (d),Held,"2,089,935",n/a,
 "Iran, Islamic Republic of",Iranian President,2024-06-28 (d),Held,None,"24,535,185 (c)",
+Mongolia,Mongolian State Great Hural,2024-06-28 (d),Held,"2,089,935",n/a,
 Mauritania,Mauritanian Presidency,2024-06-29 (d),Held,"1,939,342","988,822  (v)","55.4
                                         %"
 France,French National Assembly,2024-06-30 (d),Held,"49,332,709","32,057,946  (v)","66.7
@@ -132,7 +132,7 @@ Algeria,Algerian Presidency,2024-09-07 (d),Held,"24,453,992",n/a,
 Jordan,Jordanian House of Deputies,2024-09-10 (d),Held,None,n/a,
 Czech Republic,Czech Senate,2024-09-20 (d),Confirmed,"2,693,038","793,489  (v)","30.2
                                         %"
-Sri Lanka,Sri Lankan Presidency,2024-09-21 (d),Confirmed,"17,140,354","13,319,616  (v)","79.5
+Sri Lanka,Sri Lankan Presidency,2024-09-21 (d),Held,"17,140,354","13,319,616  (v)","79.5
                                         %"
 Switzerland,Referendum,2024-09-22 (d),Confirmed,None,"2,505,475  (v)",
 Liechtenstein,Referendum,2024-09-22 (d),Held,"21,114","12,401  (v)","59.9
@@ -141,22 +141,22 @@ Czech Republic,Czech Senate,2024-09-27 (d),Held,"2,239,246","390,601  (v)","17.5
                                         %"
 Austria,Austrian National Council,2024-09-29 (d),Confirmed,"6,346,059","4,882,888  (v)","77.7
                                         %"
-Kazakhstan,Referendum,2024-10-06 (d),Confirmed,None,"7,820,204 (c)",
-Tunisia,Tunisian Presidency,2024-10-06 (d),Confirmed,"9,753,217","2,689,408  (v)","28.8
+Tunisia,Tunisian Presidency,2024-10-06 (d),Held,"9,753,217","2,689,408  (v)","28.8
                                         %"
-Mozambique,Mozambican Presidency,2024-10-09 (d),Confirmed,"16,649,373",n/a,
+Kazakhstan,Referendum,2024-10-06 (d),Confirmed,None,"7,820,204 (c)",
 Mozambique,Mozambican Assembly,2024-10-09 (d),Confirmed,"16,649,373",n/a,
+Mozambique,Mozambican Presidency,2024-10-09 (d),Held,"16,649,373",n/a,
 Lithuania,Lithuanian Parliament,2024-10-13 (d),Confirmed,"2,384,368","1,220,570  (v)","52.2
                                         %"
-"Moldova, Republic of",Moldovan Presidency,2024-10-20 (d),Confirmed,"3,023,506","1,546,031  (v)","51.7
+"Moldova, Republic of",Moldovan Presidency,2024-10-20 (d),Held,"3,023,506","1,546,031  (v)","51.7
                                         %"
 "Moldova, Republic of",Referendum,2024-10-20 (d),Confirmed,None,n/a,
 Montserrat,Montserratian Legislative Assembly,2024-10-24 (d),Confirmed,"3,464",n/a,
 Kiribati,Kiribati Presidency,2024-10-25 (t),Held,None,n/a,
 Georgia,Georgian Parliament,2024-10-26 (d),Confirmed,"3,426,250",n/a,
-Bulgaria,Bulgarian National Assembly,2024-10-27 (d),Confirmed,"6,797,698",n/a,
-Japan,Japanese House of Representatives,2024-10-27 (d),Confirmed,None,n/a,
-Uruguay,Uruguayan Chamber of Senators,2024-10-27 (d),Confirmed,"2,766,323",n/a,
-Lithuania,Lithuanian Parliament,2024-10-27 (d),Confirmed,"2,121,562","846,865  (v)","41.4
+Uruguay,Referendum,2024-10-27 (d),Confirmed,"2,726,777","2,324,147  (v)","89.6
                                         %"
 Uruguay,Uruguayan Chamber of Representatives,2024-10-27 (d),Confirmed,"2,766,323",n/a,
+Japan,Japanese House of Representatives,2024-10-27 (d),Confirmed,None,n/a,
+Uruguay,Uruguayan Chamber of Senators,2024-10-27 (d),Confirmed,"2,766,323",n/a,
+Bulgaria,Bulgarian National Assembly,2024-10-27 (d),Confirmed,"6,797,698",n/a,
